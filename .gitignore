@@ -14,7 +14,7 @@ db.sqlite3
 
 
 # Sensitive files
-aiproject.pem
+line_app.pem
 
 # Common files
 *.swp
